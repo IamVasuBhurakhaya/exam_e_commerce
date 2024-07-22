@@ -43,8 +43,16 @@ The app features an aesthetically pleasing and user-friendly E-Commerce interfac
 
 ### Output
 
-- **Video**: [Link to E-commerce App Video](link_to_your_video.mp4)
-- **Images**: Include screenshots or UI previews here if available.
+- **Video**: 
+<video src="https://github.com/user-attachments/assets/c0979ecd-0eab-4ad2-a204-e34484897519">
+
+- **Images**:
+<img src="https://github.com/user-attachments/assets/2143b1f7-b93c-4e62-a7e6-e8ab96c547b4">
+<img src="https://github.com/user-attachments/assets/0e850893-a55f-43aa-961a-f8ae06b2910f">
+<img src="https://github.com/user-attachments/assets/65893bce-815d-4890-a683-93ab298c412f">
+<img src="https://github.com/user-attachments/assets/0da76679-87cc-46b0-a3f2-4f3c284d4f7a">
+<img src="https://github.com/user-attachments/assets/7dd5706b-5e81-44d4-b945-3c168d0c91c2">
+
 
 ---
 
